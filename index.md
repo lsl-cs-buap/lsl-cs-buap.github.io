@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Laboratorio de Software Libre
 
 You can use the [editor on GitHub](https://github.com/lsl-cs-buap/lsl-cs-buap.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
